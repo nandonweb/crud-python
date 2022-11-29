@@ -2,12 +2,12 @@
 
 ### Crud Basico feito em Python
 
-###Modulos usados
-mysql.connector
+### Modulos usados<br>
+mysql.connector<br>
 termcolor
 
-### Banco de dados
-database - programacao
+### Banco de dados<br>
+database - programacao<br>
 tabela - linguagens
 
 colunas = id, nome, criacao

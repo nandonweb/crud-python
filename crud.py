@@ -32,6 +32,7 @@ def main():
   =========================
   | 5: Criar Database     |
   | 6: Mostar Databases   |
+  | 0: Sair               |
   =========================
 
   """)

@@ -12,6 +12,8 @@ tabela - linguagens
 
 colunas = id, nome, criacao
 
-Output<br>
+Saida<br>
 
 <img src="output.png">
+
+Em breve irei atualizar o script
